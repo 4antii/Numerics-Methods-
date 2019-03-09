@@ -1,4 +1,4 @@
-# Numerics-Methods-
+# Numerics-Methods
 Практикум по численным методам
 
 Задание 01 методичка:
